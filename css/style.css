@@ -496,7 +496,7 @@ footer {
     cursor: pointer;
   }
   article {
-    height: calc(100% - 100px);
+    height: calc(100% - 110px);
     overflow: auto;
   }
   /* index.html */
